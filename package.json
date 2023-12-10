@@ -2,11 +2,12 @@
   "name": "monochrome-dark",
   "displayName": "Monochrome Dark",
   "description": "Monochrome dark minimalist theme",
-  "version": "0.0.7",
-  "publisher": "mikehhodgson",
-  "author": {
-    "name": "mikehhodgson"
-  },
+  "version": "1.0.0",
+  "publisher": "jtpotato",
+  "contributors": [
+    "mikehhodgson",
+    "jtpotato"
+  ],
   "scripts": {
     "publish": "vsce publish patch"
   },
@@ -20,14 +21,14 @@
     "color": "#1A1A1A",
     "theme": "dark"
   },
-  "license": "SEE LICENSE IN LICENSE",
-  "homepage": "https://github.com/mikehhodgson/monochrome-dark",
+  "license": "MIT",
+  "homepage": "https://github.com/jtpotato/monochrome-dark",
   "bugs": {
-    "url": "https://github.com/mikehhodgson/monochrome-dark/issues"
+    "url": "https://github.com/jtpotato/monochrome-dark/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mikehhodgson/monochrome-dark.git"
+    "url": "https://github.com/jtpotato/monochrome-dark.git"
   },
   "contributes": {
     "themes": [
