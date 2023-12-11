@@ -5,6 +5,9 @@ Made to look like something Vercel would make... or if VSCode had a clean subtly
 
 ![screenshot](assets/screenshot_new.png)
 
+Given the nature of this theme, it isn't fully accessible for people with impaired vision/requiring higher contrast. There are only so many shades of grey and while we do try to break out some colours here and there for visibility.
+
+Don't hesitate to file a GitHub issue if some colours feel a bit wonky! I haven't explored every aspect of VSCode colours yet.
 
 From the original:
 
