@@ -4,6 +4,12 @@ All notable changes to the "monochrome-dark" extension will be documented in thi
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.0.x] - 2023-12-10
+- Forked from original
+- Darkened colours
+- Updated bracket highlighting
+- Remove obsolete colour settings
+
 ## [0.0.7] - 2023-05-20
 
 - Provide colors for Diff language tokens (diff and patch files)
